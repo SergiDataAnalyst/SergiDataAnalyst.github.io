@@ -42,7 +42,7 @@ Artificial intelligence and machine learning can help with some of these challen
 c
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SergiDataAnalyst/Prison-Escape-Data-Analysis-/main/snow.png" alt="Sublime's custom image"/>
+  <img src="https://raw.githubusercontent.com/SergiDataAnalyst/Prison-Escape-Data-Analysis-/main/snowed.png" alt="Sublime's custom image"/>
 </p>
 
 
