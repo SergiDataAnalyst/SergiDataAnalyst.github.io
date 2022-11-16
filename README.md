@@ -13,12 +13,14 @@ Of major importance in the diagnostic process is the element of time. Most disea
 * Developing a `Machile Learning` algorithm to examine and determine the diagnosis of a patient (pending)
 * Training dataset of images (pending)
 
+![image](https://imgur.com/a/OUUMGmF)
 
-![image](https://github.com/SergiDataAnalyst/Sergi-Portolio/blob/main/new.png) 
-![image](https://github.com/SergiDataAnalyst/Sergi-Portolio/blob/main/pics.png)
+# [Project 2: Scrapping Reddit data with a bot to analyze the impact of keywords on post engagement](https://github.com/PlayingNumbers/ball_image_classifier) 
+For this project I built a bot to browse and extract data from any subreddit. The bot can access data from subreddit posts labeled as `New`, `Trending` or `Top`. The useful information gathered for each post is, the complete title, number of upvotes, number of comments and the date and time. This project aims to showcase the importance of choosing keywords or emojis to give a better engagement. 
 
-# [Project 2: Ball Image Classifier](https://github.com/PlayingNumbers/ball_image_classifier) 
-For this example project I built a ball classifier to identify balls from different sports. This could be useful for someone who is new to sports from a certain country. They could take a picture of a ball and an app could serve them some information about the history and rules of the game. This is the underlying model for building something with those capabilities. 
+
+
+![image](https://raw.githubusercontent.com/SergiDataAnalyst/Prison-Escape-Data-Analysis-/main/reddit.png)
 
 I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning. For most of the cases this would meet the need of an end user of the app. To get these results I used transfer learning on a CNN trained on resnet34. This created time efficiencies and solid results. 
 
