@@ -29,3 +29,7 @@ I need to highlight these ==very important words== .
 Here's a sentence with a footnote. [^1]
 
 [^1]: This is the footnote. 
+
+https://imgur.com/a/nRthaTT
+
+<img src="https://github.com/SergiDataAnalyst/SergiDataAnalyst.github.io/blob/2240b905c163b4520d5ad3294c7a28598bb429d2/for%20git.jpg" width="240" height="240" align="center"/>
