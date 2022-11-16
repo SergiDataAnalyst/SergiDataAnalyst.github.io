@@ -20,3 +20,12 @@ For this example project I built a ball classifier to identify balls from differ
 I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning. For most of the cases this would meet the need of an end user of the app. To get these results I used transfer learning on a CNN trained on resnet34. This created time efficiencies and solid results. 
 
 ![image](noname.png)
+
+
+H~2~O 
+
+I need to highlight these ==very important words== . 
+
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote. 
