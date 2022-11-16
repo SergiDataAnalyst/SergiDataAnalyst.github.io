@@ -40,12 +40,9 @@ As in many other scientific fields, the proliferation of tools like artificial i
 
 Artificial intelligence and machine learning can help with some of these challenges. Forecasters are using these tools in several ways now, including making predictions of high-impact weather that the models can’t provide.
 
-Here's a sentence with a footnote. [^1]
-
-[^1]: This is the footnote. 
-
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SergiDataAnalyst/Prison-Escape-Data-Analysis-/main/reddit.png" alt="Sublime's custom image"/>
+  <img src="https://raw.githubusercontent.com/SergiDataAnalyst/Prison-Escape-Data-Analysis-/main/snow.png" alt="Sublime's custom image"/>
 </p>
+
 
