@@ -38,3 +38,13 @@ Here's a sentence with a footnote. [^1]
 https://imgur.com/a/nRthaTT
 
 <img src="https://raw.githubusercontent.com/SergiDataAnalyst/SergiDataAnalyst.github.io/2240b905c163b4520d5ad3294c7a28598bb429d2/for%20git.jpg" width="240" height="240" align="center"/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SergiDataAnalyst/Prison-Escape-Data-Analysis-/main/reddit.pngraw=true" alt="Sublime's custom image"/>
+</p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SergiDataAnalyst/Prison-Escape-Data-Analysis-/main/reddit.png" alt="Sublime's custom image"/>
+</p>
+
