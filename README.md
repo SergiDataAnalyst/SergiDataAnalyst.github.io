@@ -16,14 +16,25 @@ Of major importance in the diagnostic process is the element of time. Most disea
 ![image](https://imgur.com/a/OUUMGmF)
 
 # [Project 2: Scrapping Reddit data with a bot to analyze the impact of keywords on post engagement](https://github.com/PlayingNumbers/ball_image_classifier) 
-For this project I built a bot to browse and extract data from any subreddit. The bot can access data from subreddit posts labeled as `New`, `Trending` or `Top`. The useful information gathered for each post is, the complete title, number of upvotes, number of comments and the date and time. This project aims to showcase the importance of choosing keywords or emojis to give a better engagement. 
+For this project I built a bot to browse and extract data from any subreddit. The bot can access data from subreddit posts labeled as `New`, `Trending` or `Top`. The useful information gathered for each post is, the complete title, number of upvotes, number of comments and the date and time. This project aims to showcase the importance of choosing keywords or emojis to give a better engagement. The reason behind choosing Reddit is because during the past years it has become a relevant source for statistical information collection for surveys since it offers a notorious widespread representation of nowadays society spectrum of opinion.
+
+* Used the Python Reddit API Wrapper tool to generate a scrapping data bot
+* Data gathering from desired subreddit(s) into `.csv` files stored locally to later import them as a DataFrame
+* Cleaning the data stored in the DataFrame containing thousands of posts information
+* Organizing and classifying the DataFrame
+* Creating dictionaries with the most relevant keywords and emojis
+* Analyzing the impact of keywords
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SergiDataAnalyst/Prison-Escape-Data-Analysis-/main/reddit.png" alt="Sublime's custom image"/>
 </p>
 
-I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning. For most of the cases this would meet the need of an end user of the app. To get these results I used transfer learning on a CNN trained on resnet34. This created time efficiencies and solid results. 
 
+# [Project 3: Will it snow in Munich on Christmas Eve? ](https://github.com/PlayingNumbers/ball_image_classifier) 
+
+As in many other scientific fields, the proliferation of tools like artificial intelligence and machine learning holds great promise for weather prediction. We have seen some of what’s possible in our research on applying machine learning to forecasts of high-impact weather. These tools open up new possibilities for better forecasts.
+
+Artificial intelligence and machine learning can help with some of these challenges. Forecasters are using these tools in several ways now, including making predictions of high-impact weather that the models can’t provide.
 
 Here's a sentence with a footnote. [^1]
 
