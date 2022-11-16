@@ -13,7 +13,11 @@ Of major importance in the diagnostic process is the element of time. Most disea
 * Developing a `Machile Learning` algorithm to examine and determine the diagnosis of a patient (pending)
 * Training dataset of images (pending)
 
-![image](https://imgur.com/a/OUUMGmF)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SergiDataAnalyst/Prison-Escape-Data-Analysis-/main/glottis.png" alt="Sublime's custom image"/>
+</p>
+
 
 # [Project 2: Scrapping Reddit data with a bot to analyze the impact of keywords on post engagement](https://github.com/PlayingNumbers/ball_image_classifier) 
 For this project I built a bot to browse and extract data from any subreddit. The bot can access data from subreddit posts labeled as `New`, `Trending` or `Top`. The useful information gathered for each post is, the complete title, number of upvotes, number of comments and the date and time. This project aims to showcase the importance of choosing keywords or emojis to give a better engagement. The reason behind choosing Reddit is because during the past years it has become a relevant source for statistical information collection for surveys since it offers a notorious widespread representation of nowadays society spectrum of opinion.
