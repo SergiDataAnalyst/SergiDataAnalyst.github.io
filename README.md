@@ -18,30 +18,16 @@ Of major importance in the diagnostic process is the element of time. Most disea
 # [Project 2: Scrapping Reddit data with a bot to analyze the impact of keywords on post engagement](https://github.com/PlayingNumbers/ball_image_classifier) 
 For this project I built a bot to browse and extract data from any subreddit. The bot can access data from subreddit posts labeled as `New`, `Trending` or `Top`. The useful information gathered for each post is, the complete title, number of upvotes, number of comments and the date and time. This project aims to showcase the importance of choosing keywords or emojis to give a better engagement. 
 
-
-
-![image](https://raw.githubusercontent.com/SergiDataAnalyst/Prison-Escape-Data-Analysis-/main/reddit.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SergiDataAnalyst/Prison-Escape-Data-Analysis-/main/reddit.png" alt="Sublime's custom image"/>
+</p>
 
 I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning. For most of the cases this would meet the need of an end user of the app. To get these results I used transfer learning on a CNN trained on resnet34. This created time efficiencies and solid results. 
 
-![image](noname.png)
-
-
-H~2~O 
-
-I need to highlight these ==very important words== . 
 
 Here's a sentence with a footnote. [^1]
 
 [^1]: This is the footnote. 
-
-https://imgur.com/a/nRthaTT
-
-<img src="https://raw.githubusercontent.com/SergiDataAnalyst/SergiDataAnalyst.github.io/2240b905c163b4520d5ad3294c7a28598bb429d2/for%20git.jpg" width="240" height="240" align="center"/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SergiDataAnalyst/Prison-Escape-Data-Analysis-/main/reddit.pngraw=true" alt="Sublime's custom image"/>
-</p>
 
 
 <p align="center">
