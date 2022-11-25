@@ -3,7 +3,7 @@ Data Science &amp; Data Analytics
 
 
 
-# [Project 1: Overlaying glottis images and accessing their metadata for a better diagnosis](https://github.com/PlayingNumbers/ds_salary_proj) 
+# [Project 1: Overlaying glottis images and accessing their metadata for a better diagnosis](https://github.com/SergiDataAnalyst/leaves/blob/main/Leaves.ipynb) 
 A quick medical diagnosis can help save lives! Once a patient seeks health care, there is an iterative process of information gathering, information integration and interpretation, and determining a working diagnosis. Performing a clinical history and interview, conducting a physical exam, performing diagnostic testing, and referring or consulting with other clinicians are all ways of accumulating information that may be relevant to understanding a patient's health problem. The information-gathering approaches can be employed at different times, and diagnostic information can be obtained in different orders. The continuous process of information gathering, integration, and interpretation involves hypothesis generation and updating prior probabilities as more information is learned. 
 Of major importance in the diagnostic process is the element of time. Most diseases evolve over time, and there can be a delay between the onset of disease and the onset of a patient's symptoms; time can also elapse before a patient's symptoms are recognized as a specific diagnosis. Sometimes, image diagnosis can become a rather long wait, this can be caused by a bottleneck in the health care system. Machine Learning algorithms can help speed up this process and potentially save lifes.
 * Created a tool that imports and opens images and accesses their metadata files
