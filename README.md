@@ -87,3 +87,20 @@ Artificial intelligence and machine learning can help with some of these challen
 <p align="center">
   <img src="https://raw.githubusercontent.com/SergiDataAnalyst/Prison-Escape-Data-Analysis-/main/census.png" alt="Sublime's custom image"/>
 </p>
+
+
+# [Project 6: Visualization of US census data](https://github.com/SergiDataAnalyst/Apps/blob/main/Apps.ipynb) 
+
+As in many other scientific fields, the proliferation of tools like artificial intelligence and machine learning holds great promise for weather prediction. We have seen some of what’s possible in our research on applying machine learning to forecasts of high-impact weather. These tools open up new possibilities for better forecasts.
+Artificial intelligence and machine learning can help with some of these challenges. Forecasters are using these tools in several ways now, including making predictions of high-impact weather that the models can’t provide.
+* Importing historical data to a DataFrame from a .csv file
+* Data visualization
+* Data cleaning and classication
+* Implementation of a linear regression machine learning model to work with the data
+* Choosing of predictor variables
+* Training of the DataFrame
+* Studying of the overall impact of the different predictor variables
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SergiDataAnalyst/Prison-Escape-Data-Analysis-/main/appsd.jpg" alt="Sublime's custom image"/>
+</p>
