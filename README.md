@@ -51,7 +51,7 @@ Artificial intelligence and machine learning can help with some of these challen
   <img src="https://raw.githubusercontent.com/SergiDataAnalyst/Prison-Escape-Data-Analysis-/main/snowed.png" alt="Sublime's custom image"/>
 </p>
 
-# [Project 4: Modifying the internal RGB values of a picture to alter the original output](https://github.com/PlayingNumbers/ball_image_classifier) 
+# [Project 4: Modifying the internal RGB values of a picture to alter the original output](https://github.com/SergiDataAnalyst/leaves) 
 
 As in many other scientific fields, the proliferation of tools like artificial intelligence and machine learning holds great promise for weather prediction. We have seen some of what’s possible in our research on applying machine learning to forecasts of high-impact weather. These tools open up new possibilities for better forecasts.
 Artificial intelligence and machine learning can help with some of these challenges. Forecasters are using these tools in several ways now, including making predictions of high-impact weather that the models can’t provide. Here's a sentence with a footnote. [^1]
