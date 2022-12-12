@@ -10,7 +10,7 @@ To mitigate the effects of climate change and protect the environment, Germany s
 * Using the best model to predict inputs
 
 <p align="center">
-  <img src="https://github.com/SergiDataAnalyst/Prison-Escape-Data-Analysis-/blob/main/milling.jpg" alt="Sublime's custom image"/>
+  <img src="https://raw.githubusercontent.com/SergiDataAnalyst/Prison-Escape-Data-Analysis-/main/milling.jpg" alt="Sublime's custom image"/>
 </p>
 
 
