@@ -13,6 +13,9 @@ To mitigate the effects of climate change and protect the environment, Germany s
   <img src="https://raw.githubusercontent.com/SergiDataAnalyst/Prison-Escape-Data-Analysis-/main/milling.jpg" alt="Sublime's custom image"/>
 </p>
 
+    "<div>\n",
+    "<img src=\"https://i.imgur.com/1WtJgGY.jpg\" width=\"700\"/>\n",
+    "</div>"
 
 # [Project 2: Overlaying glottis images and accessing their metadata for a better diagnosis](https://github.com/SergiDataAnalyst/leaves/blob/main/Leaves.ipynb) 
 A quick medical diagnosis can help save lives! Once a patient seeks health care, there is an iterative process of information gathering, information integration and interpretation, and determining a working diagnosis. Performing a clinical history and interview, conducting a physical exam, performing diagnostic testing, and referring or consulting with other clinicians are all ways of accumulating information that may be relevant to understanding a patient's health problem. The information-gathering approaches can be employed at different times, and diagnostic information can be obtained in different orders. The continuous process of information gathering, integration, and interpretation involves hypothesis generation and updating prior probabilities as more information is learned. 
