@@ -14,7 +14,7 @@ To mitigate the effects of climate change and protect the environment, Germany s
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/1WtJgGY.jpg" alt="Sublime's custom image"/>
+  <img src="https://i.imgur.com/1WtJgGY.jpg" alt="Sublime's custom image" width=\"100\"/>
 </p>
 <div>\n",
   <img src=\"https://i.imgur.com/1WtJgGY.jpg\" width=\"700\"/>\n",
