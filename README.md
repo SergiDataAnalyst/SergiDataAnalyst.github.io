@@ -123,10 +123,5 @@ Created a cool script that draws snowflakes in a thousand different colors using
 * Creating a random list of 1000 hexadecimal code colors
 * Constructing the snowflake geometry with different branches
 <p align="center">
-  <img src="https://i.imgur.com/AttVVXg.jpg" alt="Sublime's custom image"/>
-</p>
-
-<p align="center">
   <img src="https://i.imgur.com/Lzk5aFn.jpg" alt="Sublime's custom image"/>
 </p>
-https://i.imgur.com/Lzk5aFn.jpg
