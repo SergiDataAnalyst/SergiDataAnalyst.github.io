@@ -13,6 +13,9 @@ To mitigate the effects of climate change and protect the environment, Germany s
   <img src="https://raw.githubusercontent.com/SergiDataAnalyst/Prison-Escape-Data-Analysis-/main/milling.jpg" alt="Sublime's custom image"/>
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/1WtJgGY.jpg" alt="Sublime's custom image"/>
+</p>
 <div>\n",
   <img src=\"https://i.imgur.com/1WtJgGY.jpg\" width=\"700\"/>\n",
 </div>"
