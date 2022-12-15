@@ -13,8 +13,6 @@ To mitigate the effects of climate change and protect the environment, Germany s
   <img src="https://raw.githubusercontent.com/SergiDataAnalyst/Prison-Escape-Data-Analysis-/main/milling.jpg" alt="Sublime's custom image"/>
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/1WtJgGY.jpg" alt="Sublime's custom image"/>
 
 
 # [Project 2: Overlaying glottis images and accessing their metadata for a better diagnosis](https://github.com/SergiDataAnalyst/leaves/blob/main/Leaves.ipynb) 
@@ -117,4 +115,13 @@ Artificial intelligence and machine learning can help with some of these challen
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SergiDataAnalyst/Prison-Escape-Data-Analysis-/main/appsd.jpg" alt="Sublime's custom image"/>
+</p>
+
+# [Project 8: Using Python Turtle Graphics to draw snowflakes](https://github.com/SergiDataAnalyst/snowflakes)
+Created a cool script that draws snowflakes in a thousand different colors using hexadecimal code.
+* Creating a Turtle object
+* Creating a random list of 1000 hexadecimal code colors
+* Constructing the snowflake geometry with different branches
+<p align="center">
+  <img src="https://i.imgur.com/AttVVXg.jpg" alt="Sublime's custom image"/>
 </p>
