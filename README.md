@@ -2,7 +2,7 @@
 Data Science &amp; Data Analytics
 
 # [Project 1: Using Machine Learning to predict energy requirements on a milling machine](https://github.com/SergiDataAnalyst/energy_prediction_ML/blob/main/Energy_prediction.ipynb)
-To mitigate the effects of climate change and protect the environment, Germany set agoal to increase its share of renewable energy in the power generation to 80% by 2050 (Bundesministerium für Wirtschaft und Energie 2017). However, since renewable energy generation from sources such as wind or sun is highly volatile, accurate forecasts of non-controllable electrical load are necessary to flexibly manage and achieve demand-supply balance. Electricity is currently the most important energy vector in the domestic sector and industry. Unlike fuels, electricity is hard and expensive to store. This creates the need of precise coupling between generation and demand. For these reasons, energy consumption forecasting is vital. The time scale for forecasting depends on who is interested in such prediction. 
+To mitigate the effects of climate change and protect the environment, Germany set a goal to increase its share of renewable energy in the power generation to 80% by 2050 (Bundesministerium für Wirtschaft und Energie 2017). However, since renewable energy generation from sources such as wind or sun is highly volatile, accurate forecasts of non-controllable electrical load are necessary to flexibly manage and achieve demand-supply balance. Electricity is currently the most important energy vector in the domestic sector and industry. Unlike fuels, electricity is hard and expensive to store. This creates the need of precise coupling between generation and demand. For these reasons, energy consumption forecasting is vital. The time scale for forecasting depends on who is interested in such prediction. 
 * Analyzing and cleaning the data
 * Splitting and training of the data set
 * Deploying three machine learning models
@@ -98,30 +98,4 @@ Artificial intelligence and machine learning can help with some of these challen
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SergiDataAnalyst/Prison-Escape-Data-Analysis-/main/census.png" alt="Sublime's custom image"/>
-</p>
-
-
-# [Project 7: Analyzing data from apps in the Google Store ](https://github.com/SergiDataAnalyst/Apps/blob/main/Apps.ipynb) 
-
-As in many other scientific fields, the proliferation of tools like artificial intelligence and machine learning holds great promise for weather prediction. We have seen some of what’s possible in our research on applying machine learning to forecasts of high-impact weather. These tools open up new possibilities for better forecasts.
-Artificial intelligence and machine learning can help with some of these challenges. Forecasters are using these tools in several ways now, including making predictions of high-impact weather that the models can’t provide.
-* Importing historical data to a DataFrame from a .csv file
-* Data visualization
-* Data cleaning and classication
-* Implementation of a linear regression machine learning model to work with the data
-* Choosing of predictor variables
-* Training of the DataFrame
-* Studying of the overall impact of the different predictor variables
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SergiDataAnalyst/Prison-Escape-Data-Analysis-/main/appsd.jpg" alt="Sublime's custom image"/>
-</p>
-
-# [Project 8: Using Python Turtle Graphics to draw snowflakes](https://github.com/SergiDataAnalyst/snowflakes)
-Created a cool script that draws snowflakes in a thousand different colors using hexadecimal code.
-* Creating a Turtle object
-* Creating a random list of 1000 hexadecimal code colors
-* Constructing the snowflake geometry with different branches
-<p align="center">
-  <img src="https://i.imgur.com/Lzk5aFn.jpg" alt="Sublime's custom image"/>
 </p>
