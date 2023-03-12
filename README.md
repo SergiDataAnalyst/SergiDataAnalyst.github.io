@@ -9,6 +9,8 @@ To mitigate the effects of climate change and protect the environment, Germany s
 * Evaluating and comparing each model
 * Using the best model to predict inputs
 
+<iframe title="netflix" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=5a9138b9-822e-40e8-9e94-b7be7f832114&autoAuth=true&ctid=33fb09e9-ca89-4710-b347-f27bf188eaa2" frameborder="0" allowFullScreen="true"></iframe>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/SergiDataAnalyst/Prison-Escape-Data-Analysis-/main/milling.jpg" alt="Sublime's custom image"/>
 </p>
