@@ -17,7 +17,7 @@ To mitigate the effects of climate change and protect the environment, Germany s
 The generation of electricity from wind energy has become increasingly important as the world moves towards sustainable energy sources. The accuracy of energy predictions and the optimization of energy production is crucial for minimizing economic losses and improving the coordination of smart grids. In this project, the use of Maximum Likelihood Estimation (MLE) methods is applied to find the Weibull distribution parameters of two different wind distributions in different locations. The Weibull distribution is widely used in various fields, including reliability engineering, to model both accelerating and decelerating failure rates and to accurately fit a wide range of data sets. In the context of wind energy, Weibull parameters play a crucial role in the selection of wind turbine models, as well as in the design of wind farms. The project aims to accurately estimate these parameters and classify the different wind profiles as on-shore or off-shore configurations. The focus is on horizontal axis wind turbines (HAWT), which are the most commonly used wind turbines and capable of generating a significant amount of electricity.
 
 * Used 2 wind datasets recordings
-* Using MLE to calculate the Weibull parameters parameters
+* Using MLE to calculate the Weibull parameters
 * Using OOP for data visualization
 * Graphing the power curve of the turbines
 
