@@ -2,8 +2,8 @@
 Data Science &amp; Data Analytics
 
 
-# [Project 0: Using Image Classification with Superheroes](https://github.com/SergiDataAnalyst/image_classification_superhero/blob/main/image_classification_superhero.ipynb)
-This code is for an image classification task where the goal is to classify images of two different superhero characters (Deadpool and Hulk). The code has several key aspects:
+# [Project 0: Using Deep Learning for Superhero Classification](https://github.com/SergiDataAnalyst/image_classification_superhero/blob/main/image_classification_superhero.ipynb)
+This code uses CNN models to perform an image classification task where the goal is to classify images of two different superhero characters (Deadpool and Hulk). Some key aspects of this project are:
 
 * Data Loading: The code loads the images from two different subfolders in the 'data' directory, using the os and cv2 libraries. It also removes any unwanted image formats using the imghdr library.
 * Data Preprocessing: The code resizes the images to a standard size (256x256) and scales the pixel values to be between 0 and 1 using the tf.keras.utils.image_dataset_from_directory() function. The images are also split into training, validation, and test sets.
