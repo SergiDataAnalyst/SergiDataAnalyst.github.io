@@ -2,7 +2,19 @@
 Data Science &amp; Data Analytics
 
 
-# [Project 0: Using Deep Learning for Superhero Classification](https://github.com/SergiDataAnalyst/image_classification_superhero/blob/main/image_classification_superhero.ipynb)
+# [Data Extraction and Filtering from Google Sheets to Google Slides with AI](https://github.com/SergiDataAnalyst/filtering_data_with_ai/blob/main/ai_filtering.ipynb)
+Extracting data from any Google Sheets file, performing filtering using AI, and generating customized Google Slides based on the filtered data. 
+* Data Extraction from Google Sheets: The project retrieves data from Google Sheets using the Google Sheets API. It converts the data into a pandas DataFrame, allowing for easy manipulation and analysis. Missing or null data is deleted informing about missing values.
+* Data Filtering using AI: The user inputs a desired prompt which is automatically translated to a pandas df query to filter the data. 
+* Google Slides Creation and Data Writing: The project utilizes the Google Slides API to create customized slides for each filtered data subset. Copies of a source template are generated, and placeholders within the slides are replaced with the filtered data. The resulting slides are shared with the specified email address.
+* Streamlit App to test this feature 
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SergiDataAnalyst/Prison-Escape-Data-Analysis-/main/diagram.png" alt="Sublime's custom image"/>
+</p>
+
+# [Using Deep Learning for Superhero Classification](https://github.com/SergiDataAnalyst/image_classification_superhero/blob/main/image_classification_superhero.ipynb)
 This code uses CNN models to perform an image classification task where the goal is to classify images of two different superhero characters (Deadpool and Hulk). Some key aspects of this project are:
 
 * Data Loading: The code loads the images from two different subfolders in the 'data' directory, using the os and cv2 libraries. It also removes any unwanted image formats using the imghdr library.
@@ -15,7 +27,7 @@ This code uses CNN models to perform an image classification task where the goal
   <img src="https://raw.githubusercontent.com/SergiDataAnalyst/Prison-Escape-Data-Analysis-/main/840_560.jpeg" alt="Sublime's custom image"/>
 </p>
 
-# [Project 1: Using Machine Learning to predict energy requirements on a milling machine](https://github.com/SergiDataAnalyst/energy_prediction_ML/blob/main/Energy_prediction.ipynb)
+# [Using Machine Learning to predict energy requirements on a milling machine](https://github.com/SergiDataAnalyst/energy_prediction_ML/blob/main/Energy_prediction.ipynb)
 To mitigate the effects of climate change and protect the environment, Germany set a goal to increase its share of renewable energy in the power generation to 80% by 2050 (Bundesministerium für Wirtschaft und Energie 2017). However, since renewable energy generation from sources such as wind or sun is highly volatile, accurate forecasts of non-controllable electrical load are necessary to flexibly manage and achieve demand-supply balance. Electricity is currently the most important energy vector in the domestic sector and industry. Unlike fuels, electricity is hard and expensive to store. This creates the need of precise coupling between generation and demand. For these reasons, energy consumption forecasting is vital. The time scale for forecasting depends on who is interested in such prediction. 
 * Analyzing and cleaning the data
 * Splitting and training of the data set
@@ -27,7 +39,7 @@ To mitigate the effects of climate change and protect the environment, Germany s
   <img src="https://raw.githubusercontent.com/SergiDataAnalyst/Prison-Escape-Data-Analysis-/main/milling.jpg" alt="Sublime's custom image"/>
 </p>
 
-# [Project 2: Using MLE to estimate Weibull Distribution Parameters for Wind Energy Optimization](https://github.com/SergiDataAnalyst/weibull_wind_distribution/blob/main/wind_weibull.ipynb) 
+# [Using MLE to estimate Weibull Distribution Parameters for Wind Energy Optimization](https://github.com/SergiDataAnalyst/weibull_wind_distribution/blob/main/wind_weibull.ipynb) 
 The generation of electricity from wind energy has become increasingly important as the world moves towards sustainable energy sources. The accuracy of energy predictions and the optimization of energy production is crucial for minimizing economic losses and improving the coordination of smart grids. In this project, the use of Maximum Likelihood Estimation (MLE) methods is applied to find the Weibull distribution parameters of two different wind distributions in different locations. The Weibull distribution is widely used in various fields, including reliability engineering, to model both accelerating and decelerating failure rates and to accurately fit a wide range of data sets. In the context of wind energy, Weibull parameters play a crucial role in the selection of wind turbine models, as well as in the design of wind farms. The project aims to accurately estimate these parameters and classify the different wind profiles as on-shore or off-shore configurations. The focus is on horizontal axis wind turbines (HAWT), which are the most commonly used wind turbines and capable of generating a significant amount of electricity.
 
 * Used 2 wind datasets recordings
@@ -39,7 +51,7 @@ The generation of electricity from wind energy has become increasingly important
   <img src="https://raw.githubusercontent.com/SergiDataAnalyst/Prison-Escape-Data-Analysis-/main/wind_turbine.jpg" alt="Sublime's custom image"/>
 </p>
 
-# [Project 3: Scrapping Reddit data and using ChatGPT to write engaging post titles](https://github.com/SergiDataAnalyst/Reddit_scrapping_project/blob/main/Reddit_Scrapping_Project.ipynb) 
+# [Scrapping Reddit data and using ChatGPT to write engaging post titles](https://github.com/SergiDataAnalyst/Reddit_scrapping_project/blob/main/Reddit_Scrapping_Project.ipynb) 
 For this project I built a bot to browse and extract data from any subreddit. The bot can access data from subreddit posts labeled as `New`, `Trending` or `Top`. The useful information gathered for each post is, the complete title, number of upvotes, number of comments and the date and time. This project aims to showcase the importance of choosing keywords or emojis to give a better engagement. The reason behind choosing Reddit is because during the past years it has become a relevant source for statistical information collection for surveys since it offers a notorious widespread representation of nowadays society spectrum of opinion.
 
 * Used the Python Reddit API Wrapper tool to generate a scrapping data bot
@@ -56,7 +68,7 @@ For this project I built a bot to browse and extract data from any subreddit. Th
 
 
 
-# [Project 4: Overlaying glottis images and accessing their metadata for a better diagnosis](https://github.com/SergiDataAnalyst/glottis/blob/main/glottis.ipynb) 
+# [Overlaying glottis images and accessing their metadata for a better diagnosis](https://github.com/SergiDataAnalyst/glottis/blob/main/glottis.ipynb) 
 A quick medical diagnosis can help save lives! Once a patient seeks health care, there is an iterative process of information gathering, information integration and interpretation, and determining a working diagnosis. Performing a clinical history and interview, conducting a physical exam, performing diagnostic testing, and referring or consulting with other clinicians are all ways of accumulating information that may be relevant to understanding a patient's health problem. The information-gathering approaches can be employed at different times, and diagnostic information can be obtained in different orders. The continuous process of information gathering, integration, and interpretation involves hypothesis generation and updating prior probabilities as more information is learned. 
 Of major importance in the diagnostic process is the element of time. Most diseases evolve over time, and there can be a delay between the onset of disease and the onset of a patient's symptoms; time can also elapse before a patient's symptoms are recognized as a specific diagnosis. Sometimes, image diagnosis can become a rather long wait, this can be caused by a bottleneck in the health care system. Machine Learning algorithms can help speed up this process and potentially save lifes.
 * Created a tool that imports and opens images and accesses their metadata files
@@ -72,7 +84,7 @@ Of major importance in the diagnostic process is the element of time. Most disea
 </p>
 
 
-# [Project 5: Will it snow in Munich on Christmas Eve? ](https://github.com/SergiDataAnalyst/Predicting_snow_in_munich/blob/main/munich_weather.ipynb) 
+# [Will it snow in Munich on Christmas Eve? ](https://github.com/SergiDataAnalyst/Predicting_snow_in_munich/blob/main/munich_weather.ipynb) 
 
 As in many other scientific fields, the proliferation of tools like artificial intelligence and machine learning holds great promise for weather prediction. We have seen some of what’s possible in our research on applying machine learning to forecasts of high-impact weather. These tools open up new possibilities for better forecasts.
 Artificial intelligence and machine learning can help with some of these challenges. Forecasters are using these tools in several ways now, including making predictions of high-impact weather that the models can’t provide.
@@ -89,7 +101,7 @@ Artificial intelligence and machine learning can help with some of these challen
   <img src="https://raw.githubusercontent.com/SergiDataAnalyst/Prison-Escape-Data-Analysis-/main/snowed.png" alt="Sublime's custom image"/>
 </p>
 
-# [Project 6: Modifying the internal RGB values of a picture to alter the original output](https://github.com/SergiDataAnalyst/leaves/blob/main/Leaves.ipynb) 
+# [Modifying the internal RGB values of a picture to alter the original output](https://github.com/SergiDataAnalyst/leaves/blob/main/Leaves.ipynb) 
 
 As in many other scientific fields, the proliferation of tools like artificial intelligence and machine learning holds great promise for weather prediction. We have seen some of what’s possible in our research on applying machine learning to forecasts of high-impact weather. These tools open up new possibilities for better forecasts.
 Artificial intelligence and machine learning can help with some of these challenges. Forecasters are using these tools in several ways now, including making predictions of high-impact weather that the models can’t provide. [^1]
@@ -109,7 +121,7 @@ Artificial intelligence and machine learning can help with some of these challen
 </p>
 
 
-# [Project 7: Visualization of US census data](https://github.com/SergiDataAnalyst/US_census_2020/blob/main/US_census.ipynb) 
+# [Visualization of US census data](https://github.com/SergiDataAnalyst/US_census_2020/blob/main/US_census.ipynb) 
 
 As in many other scientific fields, the proliferation of tools like artificial intelligence and machine learning holds great promise for weather prediction. We have seen some of what’s possible in our research on applying machine learning to forecasts of high-impact weather. These tools open up new possibilities for better forecasts.
 Artificial intelligence and machine learning can help with some of these challenges. Forecasters are using these tools in several ways now, including making predictions of high-impact weather that the models can’t provide.
