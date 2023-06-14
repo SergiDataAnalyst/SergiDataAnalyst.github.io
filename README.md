@@ -3,11 +3,11 @@ Data Science &amp; Data Analytics
 
 
 # [Data Extraction and Filtering from Google Sheets to Google Slides with AI](https://github.com/SergiDataAnalyst/filtering_data_with_ai/blob/main/ai_filtering.ipynb)
-Extracting data from any Google Sheets file, performing filtering using AI, and generating customized Google Slides based on the filtered data. 
+Extracting data from any Google Sheets file, performing filtering using AI, and generating customized Google Slides based on the filtered data. The Google Sheets file must contain a header row.
 * Data Extraction from Google Sheets: The project retrieves data from Google Sheets using the Google Sheets API. It converts the data into a pandas DataFrame, allowing for easy manipulation and analysis. Missing or null data is deleted informing about missing values.
-* Data Filtering using AI: The user inputs a desired prompt which is automatically translated to a pandas df query to filter the data. 
-* Google Slides Creation and Data Writing: The project utilizes the Google Slides API to create customized slides for each filtered data subset. Copies of a source template are generated, and placeholders within the slides are replaced with the filtered data. The resulting slides are shared with the specified email address.
-* Streamlit App to test this feature 
+* Data Filtering using AI: The user types a desired prompt which is automatically translated to a pandas df query to filter the data by means of the ChatGPT API. 
+* Google Slides Creation and Data Writing: Creating customized slides for each filtered data subset. Copies of a source template are generated, and placeholders within the slides are replaced with the filtered data. The resulting slides are shared with a specified email address.
+* Bonus: Streamlit App to test this feature 
 
 
 <p align="center">
