@@ -2,7 +2,7 @@
 Data Science &amp; Data Analytics
 
 
-# [Data Extraction and Filtering from Google Sheets to Google Slides with AI](https://github.com/SergiDataAnalyst/filtering_data_with_ai/blob/main/ai_filtering.ipynb)
+# [Data Extraction and Filtering from Google Sheets to Google Slides with AI](https://github.com/SergiDataAnalyst/filter_data_ai/blob/master/ai_filtering.ipynb)
 Extracting data from any Google Sheets file, performing filtering using AI, and generating customized Google Slides based on the filtered data. The Google Sheets file must contain a header row.
 * Data Extraction from Google Sheets: The project retrieves data from Google Sheets using the Google Sheets API. It converts the data into a pandas DataFrame, allowing for easy manipulation and analysis. Missing or null data is deleted informing about missing values.
 * Data Filtering using AI: The user types a desired prompt which is automatically translated to a pandas df query to filter the data by means of the ChatGPT API. 
