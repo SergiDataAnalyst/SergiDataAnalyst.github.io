@@ -1,7 +1,7 @@
 # Sergi Portolio
 Data Science &amp; Data Analytics
 
-# [Data Extraction and Filtering from Google Sheets to Google Slides with AI](https://github.com/SergiDataAnalyst/wind_generation_dashboard_app/blob/master/app.py)
+# [WindViz - Wind Energy Analysis Tool](https://github.com/SergiDataAnalyst/wind_generation_dashboard_app/blob/master/app.py)
 
 Visualizing wind generation data in a streamlit framework.
 * Data Loading and Preprocessing: Uploads a CSV file and processes it into a Pandas DataFrame. Allows users to select specific columns for analysis. The uploaded wind generation CSV file should include wind speed, power output, theoretical power curve, and wind direction.
