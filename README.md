@@ -1,6 +1,20 @@
 # Sergi Portolio
 Data Science &amp; Data Analytics
 
+# [Data Extraction and Filtering from Google Sheets to Google Slides with AI](https://github.com/SergiDataAnalyst/wind_generation_dashboard_app/blob/master/app.py)
+
+Visualizing wind generation data in a streamlit framework.
+* Data Loading and Preprocessing: Uploads a CSV file and processes it into a Pandas DataFrame. Allows users to select specific columns for analysis. The uploaded wind generation CSV file should include wind speed, power output, theoretical power curve, and wind direction.
+* Correlation Analysis: Computes and visualizes the correlation between wind speed and power output.
+* Power Comparison: Plots actual power output against the theoretical power curve. Shows a scatter plot and a line plot for an easy side-by-side
+* Wind Rose: Creates a Wind Rose plot based on provided wind speed and wind direction data.
+* Test the streamlit App [HERE](https://windgenerationdashboard.streamlit.app/)
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SergiDataAnalyst/Projects/main/wind.jpg" alt="Sublime's custom image"/>
+</p>
+
 
 # [Data Extraction and Filtering from Google Sheets to Google Slides with AI](https://github.com/SergiDataAnalyst/filter_data_ai/blob/master/ai_filtering.ipynb)
 Extracting data from any Google Sheets file, performing filtering using AI, and generating customized Google Slides based on the filtered data. The Google Sheets file must contain a header row.
