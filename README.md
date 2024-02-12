@@ -1,6 +1,23 @@
 # Sergi Portolio
 Data Science &amp; Data Analytics
 
+# [Apartment Price Explorer](https://github.com/SergiDataAnalyst/barcelona_appartments)
+
+Visualizing apartment sales data in a Streamlit framework.
+
+* **Data Loading and Preprocessing**: The app uploads a CSV file and processes it into a Pandas DataFrame. It allows users to filter apartment listings by price, surface area, and amenities. The data is scraped from a Spanish real estate web portal and includes details like apartment features and location.
+* **Interactive Filtering**: Offers sliders and selectors for users to refine their apartment search based on their preferences. Filters include price range, surface area, and features such as elevators and terraces.
+* **Map Visualization**: Displays different map views for geographical exploration of apartment prices. The visualizations include a density hexagon map, a scatter plot map, and a heatmap.
+* **Statistical Summary**: Provides a summary of the search results, including the count of apartments that match the filters, average price, and average price per square meter.
+* **Data Source**: Utilizes apartment listing data scraped from a Spanish real estate web portal, offering a real-time look at the market.
+
+Test the Streamlit App [HERE](https://barcelona-appartments.streamlit.app/)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SergiDataAnalyst/barcelona_appartments/main/appartments.png" alt="Sublime's custom image"/>
+</p>
+
+
 # [WindViz - Wind Energy Analysis Tool](https://github.com/SergiDataAnalyst/wind_generation_dashboard_app/blob/master/app.py)
 
 Visualizing wind generation data in a streamlit framework.
