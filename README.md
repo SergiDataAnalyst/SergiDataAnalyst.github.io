@@ -1,6 +1,22 @@
 # Sergi Portolio
 Data Science &amp; Data Analytics
 
+# [Apartment Listing Scraper](https://github.com/SergiDataAnalyst/scrapping_appartment_website)
+
+Visualizing apartment listings data from a Spanish real estate web portal in a structured framework.
+
+* **Automated Browser Navigation**: Uses Selenium to simulate user interaction and navigate through the real estate listings.
+* **Data Extraction**: Gathers detailed information from listings, including features, links, and prices.
+* **Advanced Web Techniques**: Implements dynamic scrolling to ensure all content is loaded and employs custom headers to mimic genuine web requests.
+* **JSON Parsing**: Retrieves and processes JSON responses from API endpoints.
+* **Data Storage**: Organizes the extracted data into a Pandas DataFrame and outputs it to a CSV file for easy utilization.
+* **Google Integration**: Facilitates Google account login when necessary to access specific site features.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SergiDataAnalyst/scrapping_appartment_website/main/web_portal.png" alt="Sublime's custom image"/>
+</p>
+
+
 # [Apartment Price Explorer](https://github.com/SergiDataAnalyst/barcelona_appartments)
 
 Visualizing apartment sales data in a Streamlit framework.
