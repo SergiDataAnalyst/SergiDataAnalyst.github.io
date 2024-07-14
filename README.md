@@ -1,6 +1,31 @@
 # Sergi Portolio
 Data Science &amp; Data Analytics
 
+# [Point Cloud Data Analysis](https://github.com/jeferal/point_net_suite)
+
+Improving model performance on unbalanced point cloud datasets using advanced deep learning techniques.
+
+* **Class Imbalance Techniques**: Implements label smoothing and weighted loss to improve learning of underrepresented classes.
+* **Model Training**: Uses PointNet and PointNet++ for training on the DALES dataset, optimizing parameters for better performance.
+* **Data Visualization**: Provides tools for visualizing S3DIS and DALES datasets to understand data distribution and structural relationships.
+* **Testing and Validation**: Ensures code reliability through comprehensive tests.
+
+### Key Features
+
+* **Enhanced Learning**: Quicker learning of minority classes with fewer epochs, showing improved IoU with longer training.
+* **Effective Segmentation and Classification**: Successfully segmented and classified point cloud data using PointNet and PointNet++.
+* **Dataset Utilization**: Applied to ModelNet40 for object classification, S3DIS for indoor scene segmentation, and DALES for outdoor point cloud segmentation.
+
+### Results and Achievements
+
+* **Improved Model Performance**: Significant enhancement in learning and classifying minority classes.
+* **Robust Models**: Demonstrated effectiveness of PointNet and PointNet++ on complex datasets.
+
+<p align="center">
+  <img src="[https://raw.githubusercontent.com/SergiDataAnalyst/Projects/main/point_cloud.png](https://raw.githubusercontent.com/jeferal/point_net_suite/master/assets/modelnet%20examples%20p.gif)" alt="Point Cloud Data"/>
+</p>
+
+
 # [Apartment Listing Scraper](https://github.com/SergiDataAnalyst/scrapping_appartment_website)
 
 Visualizing apartment listings data from a Spanish real estate web portal in a structured framework.
