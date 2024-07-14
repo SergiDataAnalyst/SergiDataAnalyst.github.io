@@ -22,7 +22,7 @@ Improving model performance on unbalanced point cloud datasets using advanced de
 * **Robust Models**: Demonstrated effectiveness of PointNet and PointNet++ on complex datasets.
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/SergiDataAnalyst/Projects/main/point_cloud.png](https://raw.githubusercontent.com/jeferal/point_net_suite/master/assets/modelnet%20examples%20p.gif)" alt="Point Cloud Data"/>
+  <img src="https://raw.githubusercontent.com/jeferal/point_net_suite/master/assets/modelnet%20examples%20p.gif" alt="Point Cloud Data"/>
 </p>
 
 
