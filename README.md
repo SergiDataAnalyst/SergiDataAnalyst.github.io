@@ -1,7 +1,7 @@
 # Sergi Portolio
 Data Science &amp; Data Analytics
 
-# [Point Cloud Data Analysis](https://github.com/jeferal/point_net_suite)
+# [Point Cloud Data Analysis](https://github.com/jeferal/point_net_suite) (Final Postgraduate Degree Thesis)
 
 Improving model performance on unbalanced point cloud datasets using advanced deep learning techniques.
 
